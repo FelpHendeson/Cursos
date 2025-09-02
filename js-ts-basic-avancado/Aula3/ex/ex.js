@@ -1,0 +1,1 @@
+console.log('Treinando js as ', Date.now('dd/mm/yyyy HH:mm:ss ', 'pt-BR', { hour12: false }));
